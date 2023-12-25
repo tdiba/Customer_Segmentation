@@ -1,2 +1,11 @@
 # Customer_Segmentation
-Customer Segmentation based on various variables
+
+### Overview:
+
+Customer Segmentation is done by considering a few variables. Plots are also made 
+
+
+### Tools:
+
+- Python
+- Excel
